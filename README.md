@@ -5,6 +5,12 @@
     - seaborn
     - tqdm
 
+## Create conda environment
+
+```shell
+conda create env -f environment.yml
+```
+
 ## Run experiments:
 
 ```shell
